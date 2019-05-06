@@ -1,0 +1,14 @@
+{
+  "name": "another_marco_stfx",
+  "version": "1.0.0",
+  "description": "maked by marco stfx",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "MARCO STFX",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.4.2"
+  }
+}
